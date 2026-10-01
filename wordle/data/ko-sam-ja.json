@@ -1,0 +1,594 @@
+[
+  {
+    "name": "Nikola Tesla",
+    "category": "Nauka",
+    "clue": "Izumitelj i naučnik poznat po radu sa naizmeničnom strujom.",
+    "aliases": [
+      "nikola tesla"
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "category": "Nauka",
+    "clue": "Fizičar poznat po teoriji relativnosti.",
+    "aliases": [
+      "albert einstein"
+    ]
+  },
+  {
+    "name": "Isaac Newton",
+    "category": "Nauka",
+    "clue": "Fizičar koji je formulisao zakone kretanja i gravitacije.",
+    "aliases": [
+      "isaac newton"
+    ]
+  },
+  {
+    "name": "Marie Curie",
+    "category": "Nauka",
+    "clue": "Naučnica poznata po istraživanju radioaktivnosti.",
+    "aliases": [
+      "marie curie"
+    ]
+  },
+  {
+    "name": "Galileo Galilei",
+    "category": "Nauka",
+    "clue": "Astronom koji je proučavao Sunčev sistem i kretanje nebeskih tela.",
+    "aliases": [
+      "galileo galilei"
+    ]
+  },
+  {
+    "name": "Stephen Hawking",
+    "category": "Nauka",
+    "clue": "Fizičar poznat po radu o crnim rupama i kosmologiji.",
+    "aliases": [
+      "stephen hawking"
+    ]
+  },
+  {
+    "name": "Charles Darwin",
+    "category": "Nauka",
+    "clue": "Prirodnjak povezan sa teorijom evolucije prirodnom selekcijom.",
+    "aliases": [
+      "charles darwin"
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "category": "Istorija",
+    "clue": "Renesansni umetnik, pronalazač i mislilac.",
+    "aliases": [
+      "leonardo da vinci"
+    ]
+  },
+  {
+    "name": "Aleksandar Veliki",
+    "category": "Istorija",
+    "clue": "Vladar Makedonije i veliki osvajač antičkog sveta.",
+    "aliases": [
+      "aleksandar veliki"
+    ]
+  },
+  {
+    "name": "Julije Cezar",
+    "category": "Istorija",
+    "clue": "Rimski vojskovođa i političar.",
+    "aliases": [
+      "julije cezar"
+    ]
+  },
+  {
+    "name": "Napoleon Bonaparta",
+    "category": "Istorija",
+    "clue": "Francuski vojskovođa i car.",
+    "aliases": [
+      "napoleon bonaparta"
+    ]
+  },
+  {
+    "name": "Kleopatra",
+    "category": "Istorija",
+    "clue": "Vladarka starog Egipta iz dinastije Ptolemeja.",
+    "aliases": [
+      "kleopatra"
+    ]
+  },
+  {
+    "name": "Nikola II",
+    "category": "Istorija",
+    "clue": "Poslednji ruski car iz dinastije Romanov.",
+    "aliases": [
+      "nikolaj drugi"
+    ]
+  },
+  {
+    "name": "Vinston Čerčil",
+    "category": "Istorija",
+    "clue": "Britanski premijer tokom velikog dela Drugog svetskog rata.",
+    "aliases": [
+      "vinston cercil"
+    ]
+  },
+  {
+    "name": "Abraham Linkoln",
+    "category": "Istorija",
+    "clue": "Predsednik SAD tokom Američkog građanskog rata.",
+    "aliases": [
+      "abraham linkoln"
+    ]
+  },
+  {
+    "name": "Majkl Džekson",
+    "category": "Muzika",
+    "clue": "Pevač poznat kao Kralj popa.",
+    "aliases": [
+      "majkl dzekson"
+    ]
+  },
+  {
+    "name": "Elvis Prisli",
+    "category": "Muzika",
+    "clue": "Pevač poznat kao Kralj rokenrola.",
+    "aliases": [
+      "elvis prisli"
+    ]
+  },
+  {
+    "name": "Freddi Merkjuri",
+    "category": "Muzika",
+    "clue": "Pevač i frontmen grupe Queen.",
+    "aliases": [
+      "freddi merkjuri"
+    ]
+  },
+  {
+    "name": "Džon Lenon",
+    "category": "Muzika",
+    "clue": "Muzičar i član grupe The Beatles.",
+    "aliases": [
+      "dzon lenon"
+    ]
+  },
+  {
+    "name": "Pol Makartni",
+    "category": "Muzika",
+    "clue": "Muzičar i član grupe The Beatles.",
+    "aliases": [
+      "pol makartni"
+    ]
+  },
+  {
+    "name": "Dejvid Bouvi",
+    "category": "Muzika",
+    "clue": "Britanski muzičar poznat po brojnim muzičkim alter egima.",
+    "aliases": [
+      "dejvid bouvi"
+    ]
+  },
+  {
+    "name": "Princ",
+    "category": "Muzika",
+    "clue": "Američki muzičar poznat po pesmi Purple Rain.",
+    "aliases": [
+      "princ"
+    ]
+  },
+  {
+    "name": "Adel",
+    "category": "Muzika",
+    "clue": "Britanska pevačica poznata po pesmi Rolling in the Deep.",
+    "aliases": [
+      "adel"
+    ]
+  },
+  {
+    "name": "Tejlor Svift",
+    "category": "Muzika",
+    "clue": "Američka kantautorka poznata po albumima i turnejama.",
+    "aliases": [
+      "tejlor svift"
+    ]
+  },
+  {
+    "name": "Bruno Mars",
+    "category": "Muzika",
+    "clue": "Pevač poznat po hitovima poput Uptown Funk.",
+    "aliases": [
+      "bruno mars"
+    ]
+  },
+  {
+    "name": "Novak Đoković",
+    "category": "Sport",
+    "clue": "Srpski teniser i višestruki grend slem šampion.",
+    "aliases": [
+      "novak djokovic"
+    ]
+  },
+  {
+    "name": "Nikola Jokić",
+    "category": "Sport",
+    "clue": "Srpski košarkaš koji igra u NBA ligi.",
+    "aliases": [
+      "nikola jokic"
+    ]
+  },
+  {
+    "name": "Lionel Mesi",
+    "category": "Sport",
+    "clue": "Argentinski fudbaler i svetski šampion.",
+    "aliases": [
+      "lionel mesi"
+    ]
+  },
+  {
+    "name": "Kristijano Ronaldo",
+    "category": "Sport",
+    "clue": "Portugalski fudbaler poznat po brojnim rekordima.",
+    "aliases": [
+      "kristijano ronaldo"
+    ]
+  },
+  {
+    "name": "Majkl Džordan",
+    "category": "Sport",
+    "clue": "Američki košarkaš i legenda NBA lige.",
+    "aliases": [
+      "majkl dzordan"
+    ]
+  },
+  {
+    "name": "Lebron Džejms",
+    "category": "Sport",
+    "clue": "Američki košarkaš koji je osvojio više NBA titula.",
+    "aliases": [
+      "lebron dzejms"
+    ]
+  },
+  {
+    "name": "Serena Vilijams",
+    "category": "Sport",
+    "clue": "Američka teniserka i višestruka grend slem šampionka.",
+    "aliases": [
+      "serena vilijams"
+    ]
+  },
+  {
+    "name": "Luis Hamilton",
+    "category": "Sport",
+    "clue": "Britanski vozač Formule 1.",
+    "aliases": [
+      "luiz hamilton"
+    ]
+  },
+  {
+    "name": "Šumaher",
+    "category": "Sport",
+    "clue": "Nemački vozač Formule 1, višestruki svetski šampion.",
+    "aliases": [
+      "mihael sumaher"
+    ]
+  },
+  {
+    "name": "Arnold Švarceneger",
+    "category": "Film",
+    "clue": "Glumac poznat po ulozi Terminatora.",
+    "aliases": [
+      "arnold svarceneger"
+    ]
+  },
+  {
+    "name": "Tom Kruz",
+    "category": "Film",
+    "clue": "Američki glumac poznat po serijalu Mission: Impossible.",
+    "aliases": [
+      "tom kruz"
+    ]
+  },
+  {
+    "name": "Leonardo Dikaprio",
+    "category": "Film",
+    "clue": "Američki glumac koji je glumio u filmu Titanic.",
+    "aliases": [
+      "leonardo dikaprio"
+    ]
+  },
+  {
+    "name": "Bred Pit",
+    "category": "Film",
+    "clue": "Američki glumac poznat po filmovima Fight Club i Troy.",
+    "aliases": [
+      "bred pit"
+    ]
+  },
+  {
+    "name": "Džoni Dep",
+    "category": "Film",
+    "clue": "Američki glumac poznat po ulozi Džeka Speroua.",
+    "aliases": [
+      "dzoni dep"
+    ]
+  },
+  {
+    "name": "Anđelina Džoli",
+    "category": "Film",
+    "clue": "Američka glumica i rediteljka.",
+    "aliases": [
+      "andjelina dzoli"
+    ]
+  },
+  {
+    "name": "Dvejn Džonson",
+    "category": "Film",
+    "clue": "Glumac i bivši profesionalni rvač poznat kao The Rock.",
+    "aliases": [
+      "dvejn dzonson"
+    ]
+  },
+  {
+    "name": "Džim Keri",
+    "category": "Film",
+    "clue": "Kanadsko-američki glumac poznat po komedijama.",
+    "aliases": [
+      "dzim keri"
+    ]
+  },
+  {
+    "name": "Kijanu Rivs",
+    "category": "Film",
+    "clue": "Glumac poznat po ulozi Nea u Matrixu.",
+    "aliases": [
+      "kijanu rivs"
+    ]
+  },
+  {
+    "name": "Robert Dauni Džunior",
+    "category": "Film",
+    "clue": "Glumac poznat po ulozi Iron Mana.",
+    "aliases": [
+      "robert dauni dzunior"
+    ]
+  },
+  {
+    "name": "Milan Lane Gutović",
+    "category": "Balkan",
+    "clue": "Srpski glumac poznat po ulozi Srećka Šojića.",
+    "aliases": [
+      "milan lane gutovic"
+    ]
+  },
+  {
+    "name": "Dragan Nikolić",
+    "category": "Balkan",
+    "clue": "Srpski glumac poznat po brojnim filmskim i televizijskim ulogama.",
+    "aliases": [
+      "dragan nikolic"
+    ]
+  },
+  {
+    "name": "Bata Živojinović",
+    "category": "Balkan",
+    "clue": "Srpski glumac poznat po brojnim ratnim filmovima.",
+    "aliases": [
+      "bata zivojinovic"
+    ]
+  },
+  {
+    "name": "Pavle Vuisić",
+    "category": "Balkan",
+    "clue": "Srpski glumac poznat po mnogim filmskim ulogama.",
+    "aliases": [
+      "pavle vuisic"
+    ]
+  },
+  {
+    "name": "Zdravko Čolić",
+    "category": "Balkan",
+    "clue": "Pevač poznat širom prostora bivše Jugoslavije.",
+    "aliases": [
+      "zdravko colic"
+    ]
+  },
+  {
+    "name": "Đorđe Balašević",
+    "category": "Balkan",
+    "clue": "Novosadski kantautor i pesnik.",
+    "aliases": [
+      "djordje balasevic"
+    ]
+  },
+  {
+    "name": "Toše Proeski",
+    "category": "Balkan",
+    "clue": "Makedonski pevač poznat širom regiona.",
+    "aliases": [
+      "tose proeski"
+    ]
+  },
+  {
+    "name": "Ceca",
+    "category": "Balkan",
+    "clue": "Srpska pevačica poznata po dugoj muzičkoj karijeri.",
+    "aliases": [
+      "ceca"
+    ]
+  },
+  {
+    "name": "Marija Šerifović",
+    "category": "Balkan",
+    "clue": "Srpska pevačica koja je pobedila na Evroviziji 2007.",
+    "aliases": [
+      "marija serifovic"
+    ]
+  },
+  {
+    "name": "Dušan Vlahović",
+    "category": "Sport",
+    "clue": "Srpski fudbaler.",
+    "aliases": [
+      "dusan vlahovic"
+    ]
+  },
+  {
+    "name": "Vlade Divac",
+    "category": "Sport",
+    "clue": "Srpski košarkaš i član Kuće slavnih NBA.",
+    "aliases": [
+      "vlade divac"
+    ]
+  },
+  {
+    "name": "Mihajlo Pupin",
+    "category": "Nauka",
+    "clue": "Srpski fizičar i pronalazač.",
+    "aliases": [
+      "mihajlo pupin"
+    ]
+  },
+  {
+    "name": "Milutin Milanković",
+    "category": "Nauka",
+    "clue": "Srpski naučnik poznat po teoriji dugoročnih klimatskih promena.",
+    "aliases": [
+      "milutin milankovic"
+    ]
+  },
+  {
+    "name": "Vuk Karadžić",
+    "category": "Istorija",
+    "clue": "Reformator srpskog jezika i sakupljač narodnih umotvorina.",
+    "aliases": [
+      "vuk karadzic"
+    ]
+  },
+  {
+    "name": "Ivo Andrić",
+    "category": "Književnost",
+    "clue": "Jugoslovenski i srpski pisac i dobitnik Nobelove nagrade.",
+    "aliases": [
+      "ivo andric"
+    ]
+  },
+  {
+    "name": "Miloš Crnjanski",
+    "category": "Književnost",
+    "clue": "Srpski pisac i pesnik.",
+    "aliases": [
+      "milos crnjanski"
+    ]
+  },
+  {
+    "name": "Branislav Nušić",
+    "category": "Književnost",
+    "clue": "Srpski komediograf i pisac.",
+    "aliases": [
+      "branislav nusic"
+    ]
+  },
+  {
+    "name": "William Shakespeare",
+    "category": "Književnost",
+    "clue": "Engleski dramatičar i pesnik.",
+    "aliases": [
+      "vilijam sekspir"
+    ]
+  },
+  {
+    "name": "Mark Twain",
+    "category": "Književnost",
+    "clue": "Američki pisac poznat po Tomu Sojeru.",
+    "aliases": [
+      "mark twain"
+    ]
+  },
+  {
+    "name": "J. K. Rowling",
+    "category": "Književnost",
+    "clue": "Autorka serijala o Hariju Poteru.",
+    "aliases": [
+      "dzej kej rouling"
+    ]
+  },
+  {
+    "name": "Steve Jobs",
+    "category": "Tehnologija",
+    "clue": "Suosnivač Apple-a.",
+    "aliases": [
+      "stiv dzobs"
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "category": "Tehnologija",
+    "clue": "Suosnivač Microsoft-a.",
+    "aliases": [
+      "bil gejts"
+    ]
+  },
+  {
+    "name": "Elon Musk",
+    "category": "Tehnologija",
+    "clue": "Preduzetnik povezan sa kompanijama Tesla i SpaceX.",
+    "aliases": [
+      "ilon mask"
+    ]
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "category": "Tehnologija",
+    "clue": "Suosnivač Facebook-a.",
+    "aliases": [
+      "mark zukerberg"
+    ]
+  },
+  {
+    "name": "Jeff Bezos",
+    "category": "Tehnologija",
+    "clue": "Osnivač Amazona.",
+    "aliases": [
+      "dzef bezos"
+    ]
+  },
+  {
+    "name": "Hideo Kojima",
+    "category": "Gaming",
+    "clue": "Japanski dizajner video-igara poznat po Metal Gear i Death Stranding.",
+    "aliases": [
+      "hideo kojima"
+    ]
+  },
+  {
+    "name": "Shigeru Miyamoto",
+    "category": "Gaming",
+    "clue": "Nintendo dizajner povezan sa Mariom i Zeldom.",
+    "aliases": [
+      "šigeru mijamoto"
+    ]
+  },
+  {
+    "name": "Gordon Freeman",
+    "category": "Gaming",
+    "clue": "Glavni lik serijala Half-Life.",
+    "aliases": [
+      "gordon frimen"
+    ]
+  },
+  {
+    "name": "Lara Croft",
+    "category": "Gaming",
+    "clue": "Glavna junakinja serijala Tomb Raider.",
+    "aliases": [
+      "lara kroft"
+    ]
+  },
+  {
+    "name": "Geralt od Rivije",
+    "category": "Gaming",
+    "clue": "Glavni lik serijala The Witcher.",
+    "aliases": [
+      "geralt od rivije"
+    ]
+  }
+]
