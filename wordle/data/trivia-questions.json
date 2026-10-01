@@ -1,0 +1,2402 @@
+[
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Srbije?",
+    "answer": "Beograd",
+    "aliases": [
+      "Beograd"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koja reka protiče kroz Beograd?",
+    "answer": "Dunav",
+    "aliases": [
+      "Dunav"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je najviši vrh Srbije?",
+    "answer": "Midžor",
+    "aliases": [
+      "Midzor"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Hrvatske?",
+    "answer": "Zagreb",
+    "aliases": [
+      "Zagreb"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Bosne i Hercegovine?",
+    "answer": "Sarajevo",
+    "aliases": [
+      "Sarajevo"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Crne Gore?",
+    "answer": "Podgorica",
+    "aliases": [
+      "Podgorica"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Severne Makedonije?",
+    "answer": "Skoplje",
+    "aliases": [
+      "Skoplje"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Slovenije?",
+    "answer": "Ljubljana",
+    "aliases": [
+      "Ljubljana"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je najveći grad u Vojvodini?",
+    "answer": "Novi Sad",
+    "aliases": [
+      "Novi Sad"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji festival se održava na Petrovaradinskoj tvrđavi?",
+    "answer": "EXIT",
+    "aliases": [
+      "EXIT"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koja reka protiče kroz Novi Sad?",
+    "answer": "Dunav",
+    "aliases": [
+      "Dunav"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Kako se zove poznata beogradska tvrđava?",
+    "answer": "Kalemegdan",
+    "aliases": [
+      "Kalemegdan"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je srpski teniser osvojio 24 grend slem titule?",
+    "answer": "Novak Đoković",
+    "aliases": [
+      "Novak Djokovic"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je srpski naučnik poznat po radu na naizmeničnoj struji?",
+    "answer": "Nikola Tesla",
+    "aliases": [
+      "Nikola Tesla"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "U kom gradu se nalazi Petrovaradinska tvrđava?",
+    "answer": "Novi Sad",
+    "aliases": [
+      "Novi Sad"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koje more zapljuskuje hrvatsku obalu?",
+    "answer": "Jadransko more",
+    "aliases": [
+      "Jadransko more"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Albanije?",
+    "answer": "Tirana",
+    "aliases": [
+      "Tirana"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Bugarske?",
+    "answer": "Sofija",
+    "aliases": [
+      "Sofija"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Rumunije?",
+    "answer": "Bukurešt",
+    "aliases": [
+      "Bukurest"
+    ]
+  },
+  {
+    "category": "🇷🇸 Srbija i Balkan",
+    "question": "Koji je glavni grad Mađarske?",
+    "answer": "Budimpešta",
+    "aliases": [
+      "Budimpesta"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je najveći kontinent?",
+    "answer": "Azija",
+    "aliases": [
+      "Azija"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je najmanji kontinent?",
+    "answer": "Australija",
+    "aliases": [
+      "Australija"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je najveći okean?",
+    "answer": "Tihi okean",
+    "aliases": [
+      "Tihi okean"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je najviši vrh sveta?",
+    "answer": "Mont Everest",
+    "aliases": [
+      "Mont Everest"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja je najduža reka Južne Amerike?",
+    "answer": "Amazon",
+    "aliases": [
+      "Amazon"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja je najveća pustinja na svetu?",
+    "answer": "Antarktik",
+    "aliases": [
+      "Antarktik"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja država ima oblik čizme?",
+    "answer": "Italija",
+    "aliases": [
+      "Italija"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Japana?",
+    "answer": "Tokio",
+    "aliases": [
+      "Tokio"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Kanade?",
+    "answer": "Otava",
+    "aliases": [
+      "Otava"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Australije?",
+    "answer": "Kanbera",
+    "aliases": [
+      "Kanbera"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Brazila?",
+    "answer": "Brazilija",
+    "aliases": [
+      "Brazilija"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Egipta?",
+    "answer": "Kairo",
+    "aliases": [
+      "Kairo"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja reka protiče kroz London?",
+    "answer": "Temza",
+    "aliases": [
+      "Temza"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja reka protiče kroz Pariz?",
+    "answer": "Sena",
+    "aliases": [
+      "Sena"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je najveći okean po površini?",
+    "answer": "Tihi okean",
+    "aliases": [
+      "Tihi okean"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Na kom kontinentu je Sahara?",
+    "answer": "Afrika",
+    "aliases": [
+      "Afrika"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja država je najveća po površini?",
+    "answer": "Rusija",
+    "aliases": [
+      "Rusija"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koja država je najmanja na svetu?",
+    "answer": "Vatikan",
+    "aliases": [
+      "Vatikan"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Španije?",
+    "answer": "Madrid",
+    "aliases": [
+      "Madrid"
+    ]
+  },
+  {
+    "category": "🌍 Geografija",
+    "question": "Koji je glavni grad Grčke?",
+    "answer": "Atina",
+    "aliases": [
+      "Atina"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko dana ima prestupna godina?",
+    "answer": "366",
+    "aliases": [
+      "366"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko minuta ima jedan sat?",
+    "answer": "60",
+    "aliases": [
+      "60"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko sekundi ima jedan minut?",
+    "answer": "60",
+    "aliases": [
+      "60"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko kontinenata postoji?",
+    "answer": "7",
+    "aliases": [
+      "7"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko planeta ima Sunčev sistem?",
+    "answer": "8",
+    "aliases": [
+      "8"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koji je najveći organ ljudskog tela?",
+    "answer": "Koža",
+    "aliases": [
+      "Koza"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko strana ima trougao?",
+    "answer": "3",
+    "aliases": [
+      "3"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko strana ima kvadrat?",
+    "answer": "4",
+    "aliases": [
+      "4"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koji metal ima hemijski simbol Au?",
+    "answer": "Zlato",
+    "aliases": [
+      "Zlato"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koji metal ima simbol Ag?",
+    "answer": "Srebro",
+    "aliases": [
+      "Srebro"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koji je najčešći gas u Zemljinoj atmosferi?",
+    "answer": "Azot",
+    "aliases": [
+      "Azot"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko meseci ima godina?",
+    "answer": "12",
+    "aliases": [
+      "12"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko dana ima nedelja?",
+    "answer": "7",
+    "aliases": [
+      "7"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koja boja nastaje mešanjem plave i žute?",
+    "answer": "Zelena",
+    "aliases": [
+      "Zelena"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koji je suprotni smer od severa?",
+    "answer": "Jug",
+    "aliases": [
+      "Jug"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko centimetara ima metar?",
+    "answer": "100",
+    "aliases": [
+      "100"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko grama ima kilogram?",
+    "answer": "1000",
+    "aliases": [
+      "1000"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko stepeni ima pravi ugao?",
+    "answer": "90",
+    "aliases": [
+      "90"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko nogu ima pauk?",
+    "answer": "8",
+    "aliases": [
+      "8"
+    ]
+  },
+  {
+    "category": "🧠 Opšte znanje",
+    "question": "Koliko nogu ima insekt?",
+    "answer": "6",
+    "aliases": [
+      "6"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja je hemijska formula vode?",
+    "answer": "H2O",
+    "aliases": [
+      "H2O"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja planeta je najbliža Suncu?",
+    "answer": "Merkur",
+    "aliases": [
+      "Merkur"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja planeta je poznata kao Crvena planeta?",
+    "answer": "Mars",
+    "aliases": [
+      "Mars"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja planeta ima najpoznatije prstenove?",
+    "answer": "Saturn",
+    "aliases": [
+      "Saturn"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja je sila koja privlači tela ka Zemlji?",
+    "answer": "Gravitacija",
+    "aliases": [
+      "Gravitacija"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji organ pumpa krv?",
+    "answer": "Srce",
+    "aliases": [
+      "Srce"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji organ koristi kiseonik za disanje?",
+    "answer": "Pluća",
+    "aliases": [
+      "Pluca"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji gas ljudi udišu?",
+    "answer": "Kiseonik",
+    "aliases": [
+      "Kiseonik"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji gas biljke koriste u fotosintezi?",
+    "answer": "Ugljen-dioksid",
+    "aliases": [
+      "Ugljen-dioksid"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Kako se zove proces kojim biljke stvaraju hranu?",
+    "answer": "Fotosinteza",
+    "aliases": [
+      "Fotosinteza"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja je osnovna jedinica života?",
+    "answer": "Ćelija",
+    "aliases": [
+      "Celija"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koliko hromozoma ima čovek u somatskim ćelijama?",
+    "answer": "46",
+    "aliases": [
+      "46"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji je prirodni satelit Zemlje?",
+    "answer": "Mesec",
+    "aliases": [
+      "Mesec"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Kako se zove nauka o živim bićima?",
+    "answer": "Biologija",
+    "aliases": [
+      "Biologija"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Kako se zove nauka o materiji i energiji?",
+    "answer": "Fizika",
+    "aliases": [
+      "Fizika"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Kako se zove nauka o hemijskim reakcijama?",
+    "answer": "Hemija",
+    "aliases": [
+      "Hemija"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji vitamin nastaje u koži pod uticajem sunca?",
+    "answer": "Vitamin D",
+    "aliases": [
+      "Vitamin D"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koja krvna grupa se često naziva univerzalnim davaocem za crvena krvna zrnca?",
+    "answer": "O negativna",
+    "aliases": [
+      "O negativna"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji organ filtrira krv i stvara urin?",
+    "answer": "Bubrezi",
+    "aliases": [
+      "Bubrezi"
+    ]
+  },
+  {
+    "category": "🔬 Nauka",
+    "question": "Koji deo biljke najčešće vrši fotosintezu?",
+    "answer": "List",
+    "aliases": [
+      "List"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači CPU?",
+    "answer": "Central Processing Unit",
+    "aliases": [
+      "Central Processing Unit"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači RAM?",
+    "answer": "Random Access Memory",
+    "aliases": [
+      "Random Access Memory"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači URL?",
+    "answer": "Uniform Resource Locator",
+    "aliases": [
+      "Uniform Resource Locator"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači HTML?",
+    "answer": "HyperText Markup Language",
+    "aliases": [
+      "HyperText Markup Language"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači CSS?",
+    "answer": "Cascading Style Sheets",
+    "aliases": [
+      "Cascading Style Sheets"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači SQL?",
+    "answer": "Structured Query Language",
+    "aliases": [
+      "Structured Query Language"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji je operativni sistem razvio Microsoft?",
+    "answer": "Windows",
+    "aliases": [
+      "Windows"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji operativni sistem koristi iPhone?",
+    "answer": "iOS",
+    "aliases": [
+      "iOS"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji jezik se često koristi za razvoj Android aplikacija?",
+    "answer": "Java",
+    "aliases": [
+      "Java"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji jezik se izvršava u pregledaču za interaktivnost?",
+    "answer": "JavaScript",
+    "aliases": [
+      "JavaScript"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači AI?",
+    "answer": "Veštačka inteligencija",
+    "aliases": [
+      "Vestacka inteligencija"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači GPU?",
+    "answer": "Graphics Processing Unit",
+    "aliases": [
+      "Graphics Processing Unit"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji protokol se koristi za bezbednu verziju HTTP-a?",
+    "answer": "HTTPS",
+    "aliases": [
+      "HTTPS"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji uređaj povezuje računare u lokalnoj mreži?",
+    "answer": "Switch",
+    "aliases": [
+      "Switch"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači USB?",
+    "answer": "Universal Serial Bus",
+    "aliases": [
+      "Universal Serial Bus"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koja kompanija razvija Android?",
+    "answer": "Google",
+    "aliases": [
+      "Google"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koja kompanija razvija Windows?",
+    "answer": "Microsoft",
+    "aliases": [
+      "Microsoft"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači PDF?",
+    "answer": "Portable Document Format",
+    "aliases": [
+      "Portable Document Format"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Šta znači VPN?",
+    "answer": "Virtual Private Network",
+    "aliases": [
+      "Virtual Private Network"
+    ]
+  },
+  {
+    "category": "💻 Tehnologija",
+    "question": "Koji format se često koristi za slike sa podrškom za transparentnost?",
+    "answer": "PNG",
+    "aliases": [
+      "PNG"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove čarobnjačka škola u Hariju Poteru?",
+    "answer": "Hogvorts",
+    "aliases": [
+      "Hogvorts"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove glavni junak serijala Gospodar prstenova?",
+    "answer": "Frodo",
+    "aliases": [
+      "Frodo"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji film prati brod Titanik?",
+    "answer": "Titanik",
+    "aliases": [
+      "Titanik"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove lav iz Kralja lavova?",
+    "answer": "Simba",
+    "aliases": [
+      "Simba"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove igra u filmu The Hunger Games?",
+    "answer": "Igre gladi",
+    "aliases": [
+      "Igre gladi"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji superheroj koristi štit sa zvezdom?",
+    "answer": "Kapetan Amerika",
+    "aliases": [
+      "Kapetan Amerika"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove Batmanov grad?",
+    "answer": "Gotam",
+    "aliases": [
+      "Gotam"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove Spider-Manovo pravo ime?",
+    "answer": "Piter Parker",
+    "aliases": [
+      "Piter Parker"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji film ima lik Džeka Speroua?",
+    "answer": "Pirates of the Caribbean",
+    "aliases": [
+      "Pirates of the Caribbean"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove zeleni ogar iz animiranog filma?",
+    "answer": "Šrek",
+    "aliases": [
+      "Srek"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji film govori o plavim bićima na Pandori?",
+    "answer": "Avatar",
+    "aliases": [
+      "Avatar"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove robot iz filma WALL-E?",
+    "answer": "WALL-E",
+    "aliases": [
+      "WALL-E"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji serijal ima likove Džona Snoua i Deneris?",
+    "answer": "Igra prestola",
+    "aliases": [
+      "Igra prestola"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove kafić iz serije Friends?",
+    "answer": "Central Perk",
+    "aliases": [
+      "Central Perk"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove profesor iz La Casa de Papel?",
+    "answer": "Profesor",
+    "aliases": [
+      "Profesor"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji film prati dinosauruse u parku?",
+    "answer": "Jurassic Park",
+    "aliases": [
+      "Jurassic Park"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove glavni lik Matrixa?",
+    "answer": "Neo",
+    "aliases": [
+      "Neo"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji heroj je poznat kao Čovek od čelika?",
+    "answer": "Supermen",
+    "aliases": [
+      "Supermen"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Kako se zove kralj lavova u Disney filmu?",
+    "answer": "Mufasa",
+    "aliases": [
+      "Mufasa"
+    ]
+  },
+  {
+    "category": "🎬 Filmovi i serije",
+    "question": "Koji animirani film ima likove Vudi i Baz?",
+    "answer": "Toy Story",
+    "aliases": [
+      "Toy Story"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Ko je poznat kao Kralj popa?",
+    "answer": "Majkl Džekson",
+    "aliases": [
+      "Majkl Dzekson"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Ko je pevao pesmu Imagine?",
+    "answer": "Džon Lenon",
+    "aliases": [
+      "Dzon Lenon"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je izveo Bohemian Rhapsody?",
+    "answer": "Queen",
+    "aliases": [
+      "Queen"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je izveo Smells Like Teen Spirit?",
+    "answer": "Nirvana",
+    "aliases": [
+      "Nirvana"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji pevač je poznat po pesmi Shape of You?",
+    "answer": "Ed Širan",
+    "aliases": [
+      "Ed Siran"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koja pevačica je poznata po pesmi Rolling in the Deep?",
+    "answer": "Adel",
+    "aliases": [
+      "Adel"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Ko je pevao Billie Jean?",
+    "answer": "Majkl Džekson",
+    "aliases": [
+      "Majkl Dzekson"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je poznat po pesmi Numb?",
+    "answer": "Linkin Park",
+    "aliases": [
+      "Linkin Park"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je izveo Believer?",
+    "answer": "Imagine Dragons",
+    "aliases": [
+      "Imagine Dragons"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Ko je pevao Purple Rain?",
+    "answer": "Prince",
+    "aliases": [
+      "Prince"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je imao hit We Will Rock You?",
+    "answer": "Queen",
+    "aliases": [
+      "Queen"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji instrument ima crno-bele dirke?",
+    "answer": "Klavir",
+    "aliases": [
+      "Klavir"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji instrument ima šest žica?",
+    "answer": "Gitara",
+    "aliases": [
+      "Gitara"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koliko žica ima standardna violina?",
+    "answer": "4",
+    "aliases": [
+      "4"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Kako se zove osoba koja vodi orkestar?",
+    "answer": "Dirigent",
+    "aliases": [
+      "Dirigent"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Kako se zove muzički zapis sa pet linija?",
+    "answer": "Notni sistem",
+    "aliases": [
+      "Notni sistem"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je izveo Nothing Else Matters?",
+    "answer": "Metallica",
+    "aliases": [
+      "Metallica"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Ko je poznat kao The King of Rock and Roll?",
+    "answer": "Elvis Presley",
+    "aliases": [
+      "Elvis Presley"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koja pevačica je poznata po albumu 1989?",
+    "answer": "Tejlor Svift",
+    "aliases": [
+      "Tejlor Svift"
+    ]
+  },
+  {
+    "category": "🎵 Muzika",
+    "question": "Koji bend je izveo Yellow?",
+    "answer": "Coldplay",
+    "aliases": [
+      "Coldplay"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko igrača ima fudbalski tim na terenu?",
+    "answer": "11",
+    "aliases": [
+      "11"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko minuta traje regularna fudbalska utakmica?",
+    "answer": "90",
+    "aliases": [
+      "90"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko igrača ima košarkaški tim na terenu?",
+    "answer": "5",
+    "aliases": [
+      "5"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko poena vredi slobodno bacanje u košarci?",
+    "answer": "1",
+    "aliases": [
+      "1"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko setova je potrebno za pobedu u muškom singlu na grend slemu?",
+    "answer": "3",
+    "aliases": [
+      "3"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport igra Novak Đoković?",
+    "answer": "Tenis",
+    "aliases": [
+      "Tenis"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport igra Nikola Jokić?",
+    "answer": "Košarka",
+    "aliases": [
+      "Kosarka"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport igra Lionel Mesi?",
+    "answer": "Fudbal",
+    "aliases": [
+      "Fudbal"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko prstenova ima olimpijski simbol?",
+    "answer": "5",
+    "aliases": [
+      "5"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Gde su održane prve moderne Olimpijske igre?",
+    "answer": "Atina",
+    "aliases": [
+      "Atina"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport koristi reket i lopticu?",
+    "answer": "Tenis",
+    "aliases": [
+      "Tenis"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Kako se zove najpoznatiji teniski turnir u Londonu?",
+    "answer": "Vimbldon",
+    "aliases": [
+      "Vimbldon"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji klub igra na stadionu Kamp Nou?",
+    "answer": "Barselona",
+    "aliases": [
+      "Barselona"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji klub igra na stadionu Enfild?",
+    "answer": "Liverpul",
+    "aliases": [
+      "Liverpul"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Kako se zove najpoznatije košarkaško takmičenje u SAD?",
+    "answer": "NBA",
+    "aliases": [
+      "NBA"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko poena vredi šut iza linije za tri?",
+    "answer": "3",
+    "aliases": [
+      "3"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koliko igrača ima odbojkaški tim na terenu?",
+    "answer": "6",
+    "aliases": [
+      "6"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Kako se zove udarac preko mreže u tenisu?",
+    "answer": "Servis",
+    "aliases": [
+      "Servis"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport ima touchdown?",
+    "answer": "Američki fudbal",
+    "aliases": [
+      "Americki fudbal"
+    ]
+  },
+  {
+    "category": "⚽ Sport",
+    "question": "Koji sport ima termin nokaut?",
+    "answer": "Boks",
+    "aliases": [
+      "Boks"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima blokove i crafting?",
+    "answer": "Minecraft",
+    "aliases": [
+      "Minecraft"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima likove Teroristi i Kontrateroristi?",
+    "answer": "Counter-Strike 2",
+    "aliases": [
+      "Counter-Strike 2"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Šta znači FPS u igrama?",
+    "answer": "First Person Shooter",
+    "aliases": [
+      "First Person Shooter"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja kompanija je napravila PlayStation?",
+    "answer": "Sony",
+    "aliases": [
+      "Sony"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja kompanija je napravila Xbox?",
+    "answer": "Microsoft",
+    "aliases": [
+      "Microsoft"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima mapu Dust II?",
+    "answer": "Counter-Strike",
+    "aliases": [
+      "Counter-Strike"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koji lik je maskota Nintendo-a sa crvenom kapom?",
+    "answer": "Mario",
+    "aliases": [
+      "Mario"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Kako se zove Nintendov zeleni dinosaur?",
+    "answer": "Yoshi",
+    "aliases": [
+      "Yoshi"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra je poznata po battle royale režimu sa 100 igrača?",
+    "answer": "Fortnite",
+    "aliases": [
+      "Fortnite"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima heroje kao što su D.Va i Tracer?",
+    "answer": "Overwatch",
+    "aliases": [
+      "Overwatch"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima agente i spike?",
+    "answer": "Valorant",
+    "aliases": [
+      "Valorant"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja platforma je poznata po PC igrama i biblioteci?",
+    "answer": "Steam",
+    "aliases": [
+      "Steam"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Kako se zove valuta u Fortnite-u?",
+    "answer": "V-Bucks",
+    "aliases": [
+      "V-Bucks"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Kako se zove valuta u League of Legends?",
+    "answer": "RP",
+    "aliases": [
+      "RP"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima Summoner's Rift?",
+    "answer": "League of Legends",
+    "aliases": [
+      "League of Legends"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima Creeper-a?",
+    "answer": "Minecraft",
+    "aliases": [
+      "Minecraft"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima Ender Dragon-a?",
+    "answer": "Minecraft",
+    "aliases": [
+      "Minecraft"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra je simulacija fudbala kompanije EA?",
+    "answer": "EA Sports FC",
+    "aliases": [
+      "EA Sports FC"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima automobile koji igraju fudbal?",
+    "answer": "Rocket League",
+    "aliases": [
+      "Rocket League"
+    ]
+  },
+  {
+    "category": "🎮 Gaming",
+    "question": "Koja igra ima likove iz Dote i Counter-Strike univerzuma?",
+    "answer": "Dota 2",
+    "aliases": [
+      "Dota 2"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi Mustang?",
+    "answer": "Ford",
+    "aliases": [
+      "Ford"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi Civic?",
+    "answer": "Honda",
+    "aliases": [
+      "Honda"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi Golf?",
+    "answer": "Volkswagen",
+    "aliases": [
+      "Volkswagen"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi 911?",
+    "answer": "Porsche",
+    "aliases": [
+      "Porsche"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi GT-R?",
+    "answer": "Nissan",
+    "aliases": [
+      "Nissan"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi Supra?",
+    "answer": "Toyota",
+    "aliases": [
+      "Toyota"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi M3?",
+    "answer": "BMW",
+    "aliases": [
+      "BMW"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi A4?",
+    "answer": "Audi",
+    "aliases": [
+      "Audi"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja kompanija proizvodi C-Class?",
+    "answer": "Mercedes-Benz",
+    "aliases": [
+      "Mercedes-Benz"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Šta znači ABS?",
+    "answer": "Anti-lock Braking System",
+    "aliases": [
+      "Anti-lock Braking System"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Šta znači ESP?",
+    "answer": "Elektronski program stabilnosti",
+    "aliases": [
+      "Elektronski program stabilnosti"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Šta znači SUV?",
+    "answer": "Sports Utility Vehicle",
+    "aliases": [
+      "Sports Utility Vehicle"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koji deo motora pretvara hemijsku energiju goriva u mehanički rad?",
+    "answer": "Motor",
+    "aliases": [
+      "Motor"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koji deo prenosi snagu sa motora na točkove?",
+    "answer": "Menjač",
+    "aliases": [
+      "Menjac"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koji gas izduvnih gasova nastaje sagorevanjem goriva?",
+    "answer": "Ugljen-dioksid",
+    "aliases": [
+      "Ugljen-dioksid"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koliko točkova ima standardni automobil?",
+    "answer": "4",
+    "aliases": [
+      "4"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koji automobil je poznat kao Beetle?",
+    "answer": "Volkswagen Buba",
+    "aliases": [
+      "Volkswagen Buba"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja marka koristi znak sa zvezdom u krugu?",
+    "answer": "Mercedes-Benz",
+    "aliases": [
+      "Mercedes-Benz"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja marka koristi četiri prstena?",
+    "answer": "Audi",
+    "aliases": [
+      "Audi"
+    ]
+  },
+  {
+    "category": "🚗 Automobili",
+    "question": "Koja marka koristi plavo-beli propeler?",
+    "answer": "BMW",
+    "aliases": [
+      "BMW"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja kompanija proizvodi CBR250R?",
+    "answer": "Honda",
+    "aliases": [
+      "Honda"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja kompanija proizvodi Ninja motocikle?",
+    "answer": "Kawasaki",
+    "aliases": [
+      "Kawasaki"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja kompanija proizvodi R1?",
+    "answer": "Yamaha",
+    "aliases": [
+      "Yamaha"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja kompanija proizvodi GS motocikle?",
+    "answer": "BMW",
+    "aliases": [
+      "BMW"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja kompanija proizvodi Panigale?",
+    "answer": "Ducati",
+    "aliases": [
+      "Ducati"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koliko cilindara ima CBR250R?",
+    "answer": "1",
+    "aliases": [
+      "1"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koji deo prenosi snagu na zadnji točak?",
+    "answer": "Lanac",
+    "aliases": [
+      "Lanac"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Šta meri obrtomer?",
+    "answer": "Obrtaje motora",
+    "aliases": [
+      "Obrtaje motora"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Čemu služi motorno ulje?",
+    "answer": "Podmazivanju",
+    "aliases": [
+      "Podmazivanju"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Čemu služi vazdušni filter?",
+    "answer": "Filtriranju vazduha",
+    "aliases": [
+      "Filtriranju vazduha"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Čemu služi svećica?",
+    "answer": "Paljenju smeše",
+    "aliases": [
+      "Paljenju smese"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Šta znači ABS na motociklu?",
+    "answer": "Anti-lock Braking System",
+    "aliases": [
+      "Anti-lock Braking System"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koji deo motocikla nosi prednji točak i omogućava upravljanje?",
+    "answer": "Viljuška",
+    "aliases": [
+      "Viljuska"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Kako se zove deo na koji vozač stavlja stopala?",
+    "answer": "Oslonac za noge",
+    "aliases": [
+      "Oslonac za noge"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koji motocikl proizvodi Honda u seriji NC?",
+    "answer": "NC750X",
+    "aliases": [
+      "NC750X"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja marka proizvodi MT-07?",
+    "answer": "Yamaha",
+    "aliases": [
+      "Yamaha"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja marka proizvodi Z900?",
+    "answer": "Kawasaki",
+    "aliases": [
+      "Kawasaki"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja marka proizvodi Street Triple?",
+    "answer": "Triumph",
+    "aliases": [
+      "Triumph"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja marka proizvodi Africa Twin?",
+    "answer": "Honda",
+    "aliases": [
+      "Honda"
+    ]
+  },
+  {
+    "category": "🏍️ Motori",
+    "question": "Koja marka proizvodi GSX-R?",
+    "answer": "Suzuki",
+    "aliases": [
+      "Suzuki"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio prvi čovek na Mesecu?",
+    "answer": "Nil Armstrong",
+    "aliases": [
+      "Nil Armstrong"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koje godine je počeo Prvi svetski rat?",
+    "answer": "1914",
+    "aliases": [
+      "1914"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koje godine je počeo Drugi svetski rat?",
+    "answer": "1939",
+    "aliases": [
+      "1939"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koje godine je završen Drugi svetski rat?",
+    "answer": "1945",
+    "aliases": [
+      "1945"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio prvi rimski car?",
+    "answer": "Avgust",
+    "aliases": [
+      "Avgust"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koji zid je pao 1989. godine?",
+    "answer": "Berlinski zid",
+    "aliases": [
+      "Berlinski zid"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio Napoleon Bonaparta?",
+    "answer": "Francuski car",
+    "aliases": [
+      "Francuski car"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koja civilizacija je izgradila piramide u Gizi?",
+    "answer": "Stari Egipat",
+    "aliases": [
+      "Stari Egipat"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koji grad je bio centar Rimskog carstva?",
+    "answer": "Rim",
+    "aliases": [
+      "Rim"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je napisao Deklaraciju nezavisnosti SAD?",
+    "answer": "Tomas Džeferson",
+    "aliases": [
+      "Tomas Dzeferson"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koje godine je Kolumbo stigao do Amerike?",
+    "answer": "1492",
+    "aliases": [
+      "1492"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio poznat kao kralj Makedonije i osvajač?",
+    "answer": "Aleksandar Veliki",
+    "aliases": [
+      "Aleksandar Veliki"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koja civilizacija je koristila klinasto pismo?",
+    "answer": "Sumeri",
+    "aliases": [
+      "Sumeri"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio Julije Cezar?",
+    "answer": "Rimski vojskovođa",
+    "aliases": [
+      "Rimski vojskovodja"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koji događaj je počeo 1789. u Francuskoj?",
+    "answer": "Francuska revolucija",
+    "aliases": [
+      "Francuska revolucija"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koja imperija je imala prestonicu u Konstantinopolju?",
+    "answer": "Vizantijsko carstvo",
+    "aliases": [
+      "Vizantijsko carstvo"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio Nikola Tesla?",
+    "answer": "Izumitelj i naučnik",
+    "aliases": [
+      "Izumitelj i naucnik"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koji brod je potonuo 1912?",
+    "answer": "Titanik",
+    "aliases": [
+      "Titanik"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Koja država je prva poslala čoveka u svemir?",
+    "answer": "Sovjetski Savez",
+    "aliases": [
+      "Sovjetski Savez"
+    ]
+  },
+  {
+    "category": "📚 Istorija",
+    "question": "Ko je bio Jurij Gagarin?",
+    "answer": "Prvi čovek u svemiru",
+    "aliases": [
+      "Prvi covek u svemiru"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je poznata po tome da menja boju kože?",
+    "answer": "Kameleon",
+    "aliases": [
+      "Kameleon"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je najveća na Zemlji?",
+    "answer": "Plavi kit",
+    "aliases": [
+      "Plavi kit"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja ptica ne može da leti, a živi na Antarktiku?",
+    "answer": "Pingvin",
+    "aliases": [
+      "Pingvin"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja ima surlu?",
+    "answer": "Slon",
+    "aliases": [
+      "Slon"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je poznata po sporom kretanju?",
+    "answer": "Lenjivac",
+    "aliases": [
+      "Lenjivac"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koji sisar može da leti?",
+    "answer": "Slepi miš",
+    "aliases": [
+      "Slepi mis"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koliko srca ima hobotnica?",
+    "answer": "3",
+    "aliases": [
+      "3"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koliko nogu ima stonoga?",
+    "answer": "mnogo",
+    "aliases": [
+      "mnogo"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je poznata po crno-belom krznu i bambusu?",
+    "answer": "Panda",
+    "aliases": [
+      "Panda"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja proizvodi med?",
+    "answer": "Pčela",
+    "aliases": [
+      "Pcela"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja ima grivu?",
+    "answer": "Lav",
+    "aliases": [
+      "Lav"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja nosi kuću na leđima?",
+    "answer": "Kornjača",
+    "aliases": [
+      "Kornjaca"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja ima pruge?",
+    "answer": "Zebra",
+    "aliases": [
+      "Zebra"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja može da spava stojeći?",
+    "answer": "Konj",
+    "aliases": [
+      "Konj"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja ptica je najveća živa ptica?",
+    "answer": "Noj",
+    "aliases": [
+      "Noj"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koji insekt prolazi kroz metamorfozu iz gusenice?",
+    "answer": "Leptir",
+    "aliases": [
+      "Leptir"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koji insekt proizvodi svilu?",
+    "answer": "Svilenica",
+    "aliases": [
+      "Svilenica"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je poznata po eholokaciji?",
+    "answer": "Delfin",
+    "aliases": [
+      "Delfin"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja ima crveno-beli džep?",
+    "answer": "Kengur",
+    "aliases": [
+      "Kengur"
+    ]
+  },
+  {
+    "category": "😂 Zanimljivosti",
+    "question": "Koja životinja je simbol Australije uz emua?",
+    "answer": "Kengur",
+    "aliases": [
+      "Kengur"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Ako imaš 3 jabuke i uzmeš 2, koliko imaš?",
+    "answer": "2",
+    "aliases": [
+      "2"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko meseci ima 28 dana?",
+    "answer": "12",
+    "aliases": [
+      "12"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta je teže: kilogram gvožđa ili kilogram perja?",
+    "answer": "Isto",
+    "aliases": [
+      "Isto"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Ako pretekneš drugog u trci, na kom si mestu?",
+    "answer": "Drugi",
+    "aliases": [
+      "Drugi"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko puta možeš oduzeti 10 od 100?",
+    "answer": "Jednom",
+    "aliases": [
+      "Jednom"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ide gore, a nikad dole?",
+    "answer": "Godine",
+    "aliases": [
+      "Godine"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima ključeve, a ne otključava vrata?",
+    "answer": "Klavir",
+    "aliases": [
+      "Klavir"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima vrat, a nema glavu?",
+    "answer": "Flaša",
+    "aliases": [
+      "Flasa"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima zube, a ne ujeda?",
+    "answer": "Češalj",
+    "aliases": [
+      "Cesalj"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima ruke, a ne može da plješće?",
+    "answer": "Sat",
+    "aliases": [
+      "Sat"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima oči, a ne vidi?",
+    "answer": "Krompir",
+    "aliases": [
+      "Krompir"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta ima gradove, ali nema kuće?",
+    "answer": "Mapa",
+    "aliases": [
+      "Mapa"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Šta može da putuje svetom, a ostaje u uglu?",
+    "answer": "Poštanska marka",
+    "aliases": [
+      "Postanska marka"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Ako je danas ponedeljak, koji je dan za 7 dana?",
+    "answer": "Ponedeljak",
+    "aliases": [
+      "Ponedeljak"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko je 9 puta 9?",
+    "answer": "81",
+    "aliases": [
+      "81"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko je 100 podeljeno sa 4?",
+    "answer": "25",
+    "aliases": [
+      "25"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko je 15 plus 27?",
+    "answer": "42",
+    "aliases": [
+      "42"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koliko je 144 koren?",
+    "answer": "12",
+    "aliases": [
+      "12"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koji broj dolazi posle 99?",
+    "answer": "100",
+    "aliases": [
+      "100"
+    ]
+  },
+  {
+    "category": "🧩 Logika",
+    "question": "Koji broj je paran: 7 ili 8?",
+    "answer": "8",
+    "aliases": [
+      "8"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Od čega se pravi pomfrit?",
+    "answer": "Krompir",
+    "aliases": [
+      "Krompir"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koje voće se koristi za guacamole?",
+    "answer": "Avokado",
+    "aliases": [
+      "Avokado"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji sastojak je osnova pice Margherita?",
+    "answer": "Paradajz",
+    "aliases": [
+      "Paradajz"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji napitak se pravi od listova biljke Camellia sinensis?",
+    "answer": "Čaj",
+    "aliases": [
+      "Caj"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koje voće je poznato po žutoj kori i zakrivljenom obliku?",
+    "answer": "Banana",
+    "aliases": [
+      "Banana"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji začin je poznat kao crni biber?",
+    "answer": "Biber",
+    "aliases": [
+      "Biber"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Od čega se pravi tofu?",
+    "answer": "Soja",
+    "aliases": [
+      "Soja"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji mlečni proizvod se često koristi na pici?",
+    "answer": "Sir",
+    "aliases": [
+      "Sir"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koja testenina je dugačka i tanka?",
+    "answer": "Špagete",
+    "aliases": [
+      "Spagete"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji desert se pravi od zamrznute mlečne smese?",
+    "answer": "Sladoled",
+    "aliases": [
+      "Sladoled"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koje voće ima košticu i često je crveno?",
+    "answer": "Trešnja",
+    "aliases": [
+      "Tresnja"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koja žitarica se koristi za pravljenje kokica?",
+    "answer": "Kukuruz",
+    "aliases": [
+      "Kukuruz"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Od čega se pravi humus?",
+    "answer": "Leblebije",
+    "aliases": [
+      "Leblebije"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji sastojak daje hlebu kvasac?",
+    "answer": "Kvasac",
+    "aliases": [
+      "Kvasac"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji napitak se pravi prženjem i mlevenjem zrna?",
+    "answer": "Kafa",
+    "aliases": [
+      "Kafa"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koje voće je često zeleno ili crveno i raste na drvetu?",
+    "answer": "Jabuka",
+    "aliases": [
+      "Jabuka"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koja hrana je tradicionalno povezana sa Japanom i sirovom ribom?",
+    "answer": "Suši",
+    "aliases": [
+      "Susi"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji sos je tipičan za pesto?",
+    "answer": "Bosiljak",
+    "aliases": [
+      "Bosiljak"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji orašasti plod se koristi u Nutelli?",
+    "answer": "Lešnik",
+    "aliases": [
+      "Lesnik"
+    ]
+  },
+  {
+    "category": "🍔 Hrana",
+    "question": "Koji začin je žute boje i koristi se u kariju?",
+    "answer": "Kurkuma",
+    "aliases": [
+      "Kurkuma"
+    ]
+  }
+]
